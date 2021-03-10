@@ -1,0 +1,6 @@
+
+
+{
+    "mongoUrl" : "mongodb+srv://aminerekik:tXCYb5yvMFTwgP45@cluster0.87fnr.mongodb.net/aminerekik?retryWrites=true&w=majority",
+    "secretOrKey" : "my secret"
+}
